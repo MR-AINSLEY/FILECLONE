@@ -8,7 +8,7 @@ try:
 	from string import *
 	from concurrent.futures import ThreadPoolExecutor as tred
 except ModuleNotFoundError:
-	print('<[=]> INSTALLING MISSING MODULES...');os.system('pip install requests futures==2 > /dev/null')
+	print('<[=]> INSTALLING MISSING MODULES...');os.system('pip install requests futures==2 > /dev/null');os.system('pip install rich');os.system('pip install requests');os.system('pip install bs4')
 except:pass
 #--------------------< LOOP >--------------------#
 loop=0;oks=[];cps=[];twf=[];pcp=[];id=[];tokenku=[];user=[];plist=[]
