@@ -30,7 +30,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.facebook.com/mdshahmakhdum.shajon">
+  <a href="https://www.facebook.com/share/15fKaMnk4q/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
@@ -44,25 +44,25 @@
 </div>
 
 <p align="center">
-  <a href="https://www.facebook.com/mdshahmakhdum.shajon">
+  <a href="https://www.facebook.com/share/15fKaMnk4q/">
   <img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%">
   </a>
 </p>
 
 <div align="center">
-  <a href="https://www.facebook.com/mdshahmakhdum.shajon">
+  <a href="https://www.facebook.com/share/15fKaMnk4q/">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://www.facebook.com/mdshahmakhdum.shajon">
+  <a href="https://www.facebook.com/share/15fKaMnk4q/">
   <img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/mdshahmakhdum.shajon">
+  <a href="https://www.facebook.com/share/15fKaMnk4q/">
   <img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/thank_you.jpg" width="100%">
   </a>
 </p>
