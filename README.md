@@ -232,18 +232,9 @@ func main() {
 <a href="https://github.com/LMNx9-JOHNY"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=LMNx9-JOHNY&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LMNx9-JOHNY&theme=dark&hide_border=false" />
  </a></p>
 <p align="center">
-<a href="https://github.com/LMNx9-JOHNY">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LMNx9-JOHNY&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=LMNx9-JOHNY&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+<a href="https://github.com/MR-AINSLEY">
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LMNx9-JOHNY&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=-JOHNY&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
   </a>
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-<!-- Contribution Snake -->
-<p align="center"><img src="https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/github-contribution-grid-snake.svg"></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-<!-- Footer -->
-
-<img src="https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/Footer.jpg">
